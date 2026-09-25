@@ -6,7 +6,7 @@
   <img src="https://prod.download/pull-social-svg" alt="Pull App">
 </a>
 
-</div>
+</div> 
 
 <div align="center">
 
